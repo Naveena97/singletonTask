@@ -1,0 +1,14 @@
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\singletonTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\singletonTask.AssemblyInfoInputs.cache
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\singletonTask.AssemblyInfo.cs
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\singletonTask.csproj.CoreCompileInputs.cache
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\bin\Debug\net6.0\singletonTask.exe
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\bin\Debug\net6.0\singletonTask.deps.json
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\bin\Debug\net6.0\singletonTask.runtimeconfig.json
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\bin\Debug\net6.0\singletonTask.dll
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\bin\Debug\net6.0\singletonTask.pdb
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\singletonTask.dll
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\refint\singletonTask.dll
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\singletonTask.pdb
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\singletonTask.genruntimeconfig.cache
+C:\Users\Augmento\source\repos\singletonTask\singletonTask\obj\Debug\net6.0\ref\singletonTask.dll
